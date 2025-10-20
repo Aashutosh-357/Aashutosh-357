@@ -32,7 +32,7 @@ me = AshutoshKumarRai()
 me.say_hi()
 ```
 
-<div align="center">
+<div>
 
 ### 💡 Current Focus
 

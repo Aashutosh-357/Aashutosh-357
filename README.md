@@ -36,10 +36,10 @@ me.say_hi()
 
 ### 💡 Current Focus
 
-🔭 **Working On:** Sentiment Analysis Predictor, Neural Networks, Flask APIs  
-🌱 **Learning:** Deep Learning Optimization
+🔭 **Working On:** Neural Networks, Flask APIs & Open-Source Automation Tools  
+🌱 **Learning:** Deep Learning Optimization & MLOps  
 🤝 **Collaborate:** AI/ML Open-Source Projects  
-💬 **Ask Me About:** Python, TensorFlow, NLP, Flask, Data Structures and Algorithms 
+💬 **Ask Me About:** Python, TensorFlow, NLP, Flask, Model Deployment  
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/ashutoshkr135/) | [Email](mailto:reactmeme252@gmail.com)
 
 </div>
@@ -189,12 +189,12 @@ Explore more exciting projects on my profile!
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Ashutosh-357/Ashutosh-357/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Aashutosh-357/Aashutosh-357/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
-**⭐ From [Ashutosh-357](https://github.com/Ashutosh-357)**
+**⭐ From [Ashutosh Kumar Rai](https://github.com/Aashutosh-357)**
 
 </div>

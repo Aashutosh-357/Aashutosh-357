@@ -36,10 +36,10 @@ me.say_hi()
 
 ### 💡 Current Focus
 
-🔭 **Working On:** Neural Networks, Flask APIs & Open-Source Automation Tools  
-🌱 **Learning:** Deep Learning Optimization & MLOps  
+🔭 **Working On:** Sentiment Analysis Predictor, Neural Networks, Flask APIs  
+🌱 **Learning:** Deep Learning Optimization
 🤝 **Collaborate:** AI/ML Open-Source Projects  
-💬 **Ask Me About:** Python, TensorFlow, NLP, Flask, Model Deployment  
+💬 **Ask Me About:** Python, TensorFlow, NLP, Flask, Data Structures and Algorithms 
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/ashutoshkr135/) | [Email](mailto:reactmeme252@gmail.com)
 
 </div>

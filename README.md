@@ -81,24 +81,16 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-357&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-357&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aashutosh-357&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutosh-357&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-357&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashutosh-357&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-357&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh-357&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashutosh-357&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" />
 </div>
 
 ---
@@ -112,8 +104,8 @@ me.say_hi()
 <td width="50%">
 
 ### 🎭 Sentiment Analysis Flask App
-<a href="https://github.com/Ashutosh-357/sentiment-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-357&repo=sentiment-analysis&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Aashutosh-357/sentiment-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashutosh-357&repo=sentiment-analysis&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
 **Tech:** Python • NLTK • Flask • ML  
@@ -123,12 +115,12 @@ NLP pipeline with real-time Flask deployment for sentiment classification
 <td width="50%">
 
 ### 🍷 Wine Quality Predictor
-<a href="https://github.com/Ashutosh-357/wine-quality-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-357&repo=wine-quality-prediction&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://wine-quality-predictor-nkle.onrender.com/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashutosh-357&repo=Project-Wine_Quality_Prediction&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
 **Tech:** Python • Scikit-Learn • Pandas  
-ML regression model for predicting wine quality with 89% accuracy
+ML regression model for predicting wine quality with 81% accuracy
 
 </td>
 </tr>
@@ -137,8 +129,8 @@ ML regression model for predicting wine quality with 89% accuracy
 <td width="50%">
 
 ### 🔄 Seq2Seq Attention Model
-<a href="https://github.com/Ashutosh-357/seq2seq-attention">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-357&repo=seq2seq-attention&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Aashutosh-357/seq2seq-attention">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashutosh-357&repo=seq2seq-attention&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
 **Tech:** TensorFlow • Keras • NLP  
@@ -150,20 +142,12 @@ Neural translation model with attention mechanism
 ### 📈 More Projects
 Explore more exciting projects on my profile!
 
-[![View More](https://img.shields.io/badge/View_All_Projects-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashutosh-357?tab=repositories)
+[![View More](https://img.shields.io/badge/View_All_Projects-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashutosh-357?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aashutosh-357&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
 </div>
 
 ---
@@ -174,7 +158,7 @@ Explore more exciting projects on my profile!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshkr135/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reactmeme252@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashutosh-357)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashutosh-357)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
@@ -185,14 +169,11 @@ Explore more exciting projects on my profile!
 
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**D(4)+I(9)+S(19)+C(3)+I(9)+P(16)+L(12)+I(9)+N(14)+E(5)=100**
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Aashutosh-357/Aashutosh-357/blob/output/github-contribution-grid-snake-dark.svg)
+"When you master discipline, you unlock 100% potential"
 
 ---
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
 **⭐ From [Ashutosh Kumar Rai](https://github.com/Aashutosh-357)**

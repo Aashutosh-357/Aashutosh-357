@@ -105,7 +105,7 @@ me.say_hi()
 
 ### 🎭 Sentiment Analysis Flask App
 <a href="https://project-sentiment-analysis.onrender.com">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashutosh-357&repo=sentiment-analysis&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashutosh-357&repo=Project-Sentiment_Analysis&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
 **Tech:** Python • NLTK • Flask • ML  
